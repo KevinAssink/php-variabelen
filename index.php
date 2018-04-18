@@ -5,4 +5,8 @@
  * Date: 18-4-2018
  * Time: 08:52
  */
-echo "Hello World Rodney, dit is iets nieuws met git!";
+$aantal = 14;
+
+$deze_jongen = "Deze jongen is ";
+
+echo $deze_jongen.$aantal. " jaar oud!";
